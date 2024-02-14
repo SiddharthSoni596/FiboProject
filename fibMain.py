@@ -6,7 +6,7 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# tryin to merge
+# editing something
 # done 2 in pandey feature branch
 print(fibonacci(35))
 
